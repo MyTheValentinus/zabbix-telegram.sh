@@ -1,6 +1,9 @@
 # zabbix-telegram.sh
 Simple script, with only cURL as requirement to send Zabbix alerts to Telegram.
 
+### Example
+![example](https://i.imgur.com/vlTxJQ0.png)
+
 ### Install
 1) Put the script `telegram.sh` to `/usr/lib/zabbix/alertscripts/`
 
